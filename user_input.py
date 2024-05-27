@@ -1,0 +1,13 @@
+
+name=input("Enter name: ")
+print( "Your name is :" , end='')
+print(name)
+age=input("Enter age: ")
+print('Your age is : ',  end='')
+print(age)
+location=input("Enter location: ")
+print('Your location is :' ,  end='')
+print(location)
+u= (f"Hello {name}, you are {age} years old and live in {location}")
+#print(f"Hello {name}, you are {age} years old and live in {location}.")
+print(u)
