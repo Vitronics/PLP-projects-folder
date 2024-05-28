@@ -1,3 +1,4 @@
+#A program that accepts user input to create two sets of integers. Then, create a new set that contains only the elements that are common to both sets.
 #user to enter first set of integers separated by spaces
 list_of_set_0 = input('Enter sets of integer separated by spaces : ' )
 
